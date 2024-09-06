@@ -1,0 +1,22 @@
+{
+  "name": "tsoding-daily-2024",
+  "displayName": "Tsoding Daily Theme - 2024",
+  "description": "A VSCode theme inspired by Tsoding's emacs theme (2024)",
+  "version": "0.0.1",
+  "publisher": "y-software",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tsoding Daily Theme - 2024",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tsoding-daily-2024.json"
+      }
+    ]
+  }
+}
